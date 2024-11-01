@@ -11,7 +11,4 @@ Each problem solution is organized with:
 
 ## Getting Started
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/devKanix/Leetcode-Daily-Problems.git
-   cd Leetcode-Daily-Problems
+Clone the repository to your local machine using `git clone https://github.com/dev/Leetcode-Daily-Problems.git`
